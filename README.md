@@ -6,4 +6,4 @@
 
 ## Erste Informatikstunde<a name="eins"></a>
 
-![screenshot1](Bilder/Screenshot01.png "Screenshot 1")
+![screenshot1](Bilder/Screenshot01.png "1")
