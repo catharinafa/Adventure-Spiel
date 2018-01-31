@@ -15,5 +15,5 @@ Damit man die verschiedenen Gegenstände auf der Karte besser erkennen kann, hab
 Um unseren Arbeitsplatz bei Star Logo TNG übersichtlich und organisiert aufzubauen, programmierten wir die Steuerung von Mario in einem Block. Dazu verwendeten wir den "procedure"-Block und nannten ihn Bewegung. An diesen hängten wir mehrer "if"-Blöcke um die Bedingungen für die Steuerung festzulegen. Es muss also zum Beispiel die Pfeiltaste nach oben gedrückt werden, um Mario vorwärts laufen zu lassen. 
 
 ![screenshot3](Bilder/Screenshot03.png "3")
-
+ 
 ![screenshot2](Bilder/Screenshot02.png "2")
