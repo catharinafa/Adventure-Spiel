@@ -16,4 +16,6 @@ Um unseren Arbeitsplatz bei Star Logo TNG übersichtlich und organisiert aufzuba
 
 ![screenshot3](Bilder/Screenshot03.png "3")
  
+Das Ziel des ersten Levels ist es die "Tür" in das zweite Level zu finden. Die "Tür" ist in unserem Fall das Auto, wenn Mario mit diesem kollidiert, gelangt er automatisch in das zweite Level. Dafür benutzten wir "change level"- und "set level"-Blöcke. Der "change level"-Block sorgt dafür, dass der Spieler das zweite Level sieht, sich also das Terrain verändert, während der "set level"-Block sicherstellt, dass der Agent weiß, dass er sich in dem zweiten Level befindet.
+ 
 ![screenshot2](Bilder/Screenshot02.png "2")
