@@ -12,7 +12,7 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 ## Dritte Stunde<a name="drei"></a>
 
 Nachdem wir in der letzten Stunde festgestellt haben, dass unsere Programmierung nicht so funktioniert, wie wir uns das vorgestellte hatten, haben wir uns für diese Stunde vorgenommen, diesen Fehler zu beheben. Das Problem war, dass Mario zwar in das zweite Level springt, dieses aber nicht so erscheint, wie wir es vorher programmiert hatten. Denn wir hatten zuvor in einen zweiten "setup"-Block Agentenblöcke eingesetzt, um dann in dem zweiten Level weitere Gegenstände in dem Spaceland zu haben. Diese tauchten allerdings nicht auf wenn Mario in das zweite Level sprang, sondern sie entstanden erst dann wenn man den "setup"-Block für das zweite Level anklickte. Dann jedoch verschwand Mario. 
-Nach etlichen gescheiterten Versuchen, wie man dies anders programmieren könnte, fragten wir schließlich Herrn Buhl um Hilfe. Da aber auch er sich bei der Programmierung von verschiedenen Leveln nicht ganz sicher war, 
+Nach etlichen gescheiterten Versuchen, wie man dies anders programmieren könnte, fragten wir schließlich Herrn Buhl um Hilfe. Da aber auch er sich bei der Programmierung von verschiedenen Leveln nicht ganz sicher war, mussten wir ein paar kleine Tricks anwenden. Herr Buhl erklärte uns zuerst, dass wenn man nicht weiß wie man etwas programmieren soll, dass man dann versuchen sollte das Programm auszutricksen, indem man sozusagen drumherum programmiert. Unsere Lösung das Programm zu umgehen war dann eine "hatch do"-Funktion zu verwenden. Den Block dafür setzten wir in den Kollisionsblock ein, in den wir  auch schon andere Bedingungen, wie die, dass Mario das Level bei der Kollison wechselt, eingefügt hatten. Somit legten wir also fest, dass wenn Mario mit dem Auto kollidiert, die Mauer und auch Gräser entstehen.
 
 ## Zweite Stunde<a name="zwei"></a>
 
@@ -22,7 +22,7 @@ Als nächstes haben wir eine Mauer mit einem "setup"-Block eingefügt. Allerding
 Unser Spaceland war allerdings noch ziemlich trist und langweilig, weshalb wir uns dazu entschlossen haben Gras einzufügen. Wie auch schon zuvor die Mauer, haben wir das Gras mit Hilfe des "setup"-Blocks kreiert und es durch einen "change colour"-Block orange eingefärbt. 
 Am Ende dieser Stunde waen wir recht zufrieden mit der "Welt" des zweiten Levels, doch so einfach wie gedacht hatten funktionierte das Erstellen eines neuen Levels doch nicht, wie wir in der nächsten Stunde feststellen mussten...
 
-## Erste Informatikstunde<a name="eins"></a>
+## Erste Stunde<a name="eins"></a>
 
 In der ersten Stunde haben wir die Basis für unser Spiel geschaffen, indem wir einen Agenten programmierten und das Terrain bearbeiteten. Wir erschufen Bäume und ein Auto, zu welchem der Agent gelangen muss um in das nächste Level (Level 2) aufzusteigen.  
 Damit man die verschiedenen Gegenstände auf der Karte besser erkennen kann, haben wir die Bäume grün und das Auto blau eingefärbt. Allerdings verfärben sich nur die Punkte auf der Karte und nicht die Objekte selber, da sie eine "Haut" tragen. Als unseren Agenten wählten wir Mario, dessen Haut wir entfernten und ihn darauf rot einfärbten, um ihn in dem Spaceland besser erkennen zu können. Dies konnten wir mit Hilfe eines "model skin off"-Blockes verwirklichen.
