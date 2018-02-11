@@ -16,6 +16,11 @@ Nach etlichen gescheiterten Versuchen, wie man dies anders programmieren könnte
 
 ![screenshot4](Bilder/Screenshot04.png "4")
 
+In die "hatch do"-Blöcke haben wir dann weitere Blöcke eingesetzt um die erwünschten Eigenschaften der neu entstehenden Objekte zu erschaffen. So sollte die Mauer an einer bestimmten Stelle stehen und die Gräser orange eingefärbt und zufällig im Raum verteilt sein.
+
+Desweiteren hatten wir heute eine andere Idee, das zweite Level noch ein bisschen aufregender zu gestalten. In der in der letzten Stunde erschaffenden Schlucht soll jetzt Wasser mit Fischen sein. Falls Mario in diesen Graben fällt und möglicherweise mit einem Fisch kollidiert, soll er sozusagen "sterben" und in das erste Level zurückkehren.
+Auch hier tauchten direkt von Anfang an Probleme auf. Erst einmal entstand kein Fische, obwohl wir diese Bedingung genau so programmiert hatten, wie auch zuvor bei der Mauer und den Gräsern. Wir hatten bereits die Idee, dass der Fisch, der entstanden ist, einfach zu klein war, um ihn erkennen zu können. Herr Buhl half uns schließlich, die Größe desFisches so zu verändern, sodass man ihn nun in dem Spaceland sehen kann. Nun wollte wir ja aber auch, dass mehere Fische entstehen, die alle in dem Graben umher schwimmen. Uns war klar, dass wir dafür, zum einen eine willkürliche Bewegung der Fische festlegen müssen und zum anderen müssen wir diese Bewegung auf einen bestimmten Raum eingrenzen, da sie sich ja nicht aus dem Graben herausbewegen sollen. Da wir allerdings nicht wissen, wie man das genau programmieren kann, haben wir uns das als Ziel für die weiteren Stunden vorgenommen.
+
 ## Zweite Stunde<a name="zwei"></a>
 
 Unser heutiger Plan war, das zweite Level zu bearbeiten. In diesem soll Mario nun einen, noch undefinierten, Gegenstand einsammeln und danach durch ein Tor in einer Mauer gehen um dann in das dritte Level zu gelangen.
