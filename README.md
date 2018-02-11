@@ -9,7 +9,8 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 
 ## Zweite Stunde<a name="zwei"></a>
 
-Unser heutiger Plan war, das zweite Level zu bearbeiten. 
+Unser heutiger Plan war, das zweite Level zu bearbeiten. In diesem soll Mario nun einen, noch undefinierten, Gegenstand einsammeln und danach durch ein Tor in einer Mauer gehen um dann in das dritte Level zu gelangen.
+Als erstes haben wir begonnen das Terrain des Spacelands zu bearbeiten, denn in dem zweiten Level soll Mario in eine komplett andere Welt springen.
 
 ## Erste Informatikstunde<a name="eins"></a>
 
