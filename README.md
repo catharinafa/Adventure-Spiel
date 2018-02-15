@@ -29,7 +29,11 @@ Uns ist es wichtig, dass der Spieler mit jedem neuen Level eine neue Welt betrit
 ![screenshot6](Bilder/Screenshot06.png "6")
 
 Außerdem haben wir einen Teil des Spacelandes abgesenkt, sodass eine Art Schlucht entsteht.
-Als nächstes haben wir eine Mauer mit einem "setup"-Block eingefügt. Allerdings wollten wir, dass die Mauer ganz am Rand des Spacelands, und nicht in der Mitte, steht. Da das Spaceland sich in einem Koordinatensystem befindet, welches nicht sichtbar ist, allerdings zur STandortfestlegung herangezogen werden kann, konnten wir dies durch spezielle Blöcke erreichen. In diesen setzten wir dann die erwünschten Standortkoordinaten der Mauer ein. So stand die Mauer am Ende genau da, wo sie sein sollte.
+Als nächstes haben wir eine Mauer mit einem "setup"-Block eingefügt. 
+
+![screenshot7](Bilder/Screenshot07.png "7")
+
+Allerdings wollten wir, dass die Mauer ganz am Rand des Spacelands, und nicht in der Mitte, steht. Da das Spaceland sich in einem Koordinatensystem befindet, welches nicht sichtbar ist, allerdings zur STandortfestlegung herangezogen werden kann, konnten wir dies durch spezielle Blöcke erreichen. In diesen setzten wir dann die erwünschten Standortkoordinaten der Mauer ein. So stand die Mauer am Ende genau da, wo sie sein sollte.
 Unser Spaceland war allerdings noch ziemlich trist und langweilig, weshalb wir uns dazu entschlossen haben Gras einzufügen. Wie auch schon zuvor die Mauer, haben wir das Gras mit Hilfe des "setup"-Blocks kreiert und es durch einen "change colour"-Block orange eingefärbt. 
 Am Ende dieser Stunde waen wir recht zufrieden mit der "Welt" des zweiten Levels, doch so einfach wie gedacht hatten funktionierte das Erstellen eines neuen Levels doch nicht, wie wir in der nächsten Stunde feststellen mussten...
 
