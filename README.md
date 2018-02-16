@@ -13,6 +13,8 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 
 ## Vierte Stunde<a name="vier"></a>
 
+Heute haben wir uns damit beschäftigt unser  
+
 ![screenshot10](Bilder/Screenshot10.png "10")
 
 ![screenshot11](Bilder/Screenshot11.png "11")
