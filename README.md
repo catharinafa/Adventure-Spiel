@@ -13,7 +13,7 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 
 ## Vierte Stunde<a name="vier"></a>
 
-Heute haben wir uns damit beschäftigt unser  
+Heute haben wir uns damit beschäftigt unser ... zu sortieren. Einige Blöcke konnten wir entfernen, da wir sie gar nicht mehr benötigten. Außerdem konnten wir andere Blöcke einfacher programmieren und so unser ... übersichtlicher gestalten. Besonders unser großer "Kollisions"-Block von Mario und dem Auto ein Dorn im Auge. Vorher hatten wir, um zwei Fische in dem Spaceland zu erschaffen, zwei einzelnde "Hatch"-Blöcke programmiert, da die Fische unterschiedliche Positionen im Spaceland haben sollten. Herr Buhl hat uns darauf aufmerksam gemacht, dass es eine schönere Version gibt. Wir haben uns dafür entschieden die zwei "hatch"-Blöcke in einem "Procedure"-Block zusammen zu fassen. 
 
 ![screenshot10](Bilder/Screenshot10.png "10")
 
