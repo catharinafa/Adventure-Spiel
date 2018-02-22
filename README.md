@@ -13,7 +13,7 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 
 ## Vierte Stunde<a name="vier"></a>
 
-Heute haben wir uns damit beschäftigt unser ... zu sortieren. Einige Blöcke konnten wir entfernen, da wir sie gar nicht mehr benötigten. Außerdem konnten wir andere Blöcke einfacher programmieren und so unser ... übersichtlicher gestalten. Besonders unser großer "Kollisions"-Block von Mario und dem Auto ein Dorn im Auge. Vorher hatten wir, um zwei Fische in dem Spaceland zu erschaffen, zwei einzelnde "Hatch"-Blöcke programmiert, da die Fische unterschiedliche Positionen im Spaceland haben sollten. Herr Buhl hat uns darauf aufmerksam gemacht, dass es eine schönere Version gibt. Wir haben uns dafür entschieden die zwei "hatch"-Blöcke in einem "Procedure"-Block zusammen zu fassen. 
+Heute haben wir uns damit beschäftigt unser ... zu sortieren. Einige Blöcke konnten wir entfernen, da wir sie gar nicht mehr benötigten. Außerdem konnten wir andere Blöcke einfacher programmieren und so unser ... übersichtlicher gestalten. Besonders unser großer "Kollisions"-Block von Mario und dem Auto ein Dorn im Auge. Vorher hatten wir, um zwei Fische in dem Spaceland zu erschaffen, zwei einzelnde "Hatch"-Blöcke programmiert, da die Fische unterschiedliche Positionen im Spaceland haben sollten. Herr Buhl hat uns darauf aufmerksam gemacht, dass es eine schönere Version gibt. Wir haben uns dafür entschieden die zwei "hatch"-Blöcke in einem "Procedure"-Block zusammen zu fassen. Um trotzdem noch für die beiden Fische unterschiedliche Koordinaten festlegen zu können, haben wir zunächst einmal Variablen für die x- und y-Achsen eingestzt. 
 
 ![screenshot13](Bilder/Screenshot13.png "13")
 
