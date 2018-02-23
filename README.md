@@ -29,10 +29,11 @@ Nachdem Herr Buhl uns bestätigt hatte, dass wir aber alles richtig programmiert
 
 ![screenshot10](Bilder/Screenshot10.png "10")
 
+Natürlich muss jetzt aber auch die Möglichkeit bestehen, dass Mario "stirbt" und in das vorherige Level zurückfällt. Das haben wir einfach wieder mit einem "Kollisions"-Block programmiert, in dem wir die "change-level"-Blöcke eingefügt haben.
 
 ![screenshot11](Bilder/Screenshot11.png "11")
 
-![screenshot13](Bilder/Screenshot13.png "13")
+Leider mussten wir heute auch feststellen, dass unser Programm sich öfters aufgehangen hat und wir es schließen mussten, sodass unsere programmierten Sachen verloren gegangen sind und wir die Sachen neu einfügen konnten. Deshalb haben wir uns vorgenommen ab sofort öfters unseren Programmierstand zu speichern.
 
 
 ## Dritte Stunde<a name="drei"></a>
