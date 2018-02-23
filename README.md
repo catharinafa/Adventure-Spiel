@@ -21,13 +21,18 @@ In den Kollisionsblock von Mario un dem Auto mussten wir nun nur noch zwei "Hatc
 
 ![screenshot12](Bilder/Screenshot12.png "12")
 
-Damit auch das zweite Level anspruchsvoll bleibt, muss Mario dieses Mal zwischen den ganzen Gräsern eine Mohrrübe finden. Allerdings ist die Mohrrübe nicht entstanden. Unser erster Verdacht war, dass sie zu klein war um in dem Spaceland gesehen zu werden. Aber als wir die Größe der Möhre vergrößert haben, konnten wir sie immer noch nicht finden. Deshalb kam uns die zündende Idee "Count"-Blöcke für alle Gegenstände in unserem Spaceland einzufügen.
+Damit auch das zweite Level anspruchsvoll bleibt, muss Mario dieses Mal zwischen den ganzen Gräsern eine Mohrrübe finden. Allerdings ist die Mohrrübe nicht entstanden. Unser erster Verdacht war, dass sie zu klein war um in dem Spaceland gesehen zu werden. Aber als wir die Größe der Möhre vergrößert haben, konnten wir sie immer noch nicht finden. Deshalb kam uns die zündende Idee "Count"-Blöcke für alle Gegenstände in unserem Spaceland einzufügen. Jedoch zeigten uns die "count"-Blöcke, dass keine Möhre entstanden war. 
 
-![screenshot14](Bilder/Screenshot14.png "14") skdjhasjkdh  ![screenshot10](Bilder/Screenshot10.png "10")
+![screenshot14](Bilder/Screenshot14.png "14")  
+
+Nachdem Herr Buhl uns bestätigt hatte, dass wir aber alles richtig programmiert hatten, änderten wir die Reihenfolge in dem Kollisionsblock und siehe da, die Möhrrübe war da.
+
+![screenshot10](Bilder/Screenshot10.png "10")
+
 
 ![screenshot11](Bilder/Screenshot11.png "11")
 
-![screenshot14](Bilder/Screenshot14.png "14")
+![screenshot13](Bilder/Screenshot13.png "13")
 
 
 ## Dritte Stunde<a name="drei"></a>
