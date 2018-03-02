@@ -3,6 +3,8 @@
 Nachdem wir uns in unserem ersten Halbjahr gut in das Programm Star Logo TNG eingearbeitet hatten, entschlossen wir uns auch bei unserem  nächsten Projekt dieses Programm zu verwenden. 
 Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren, in denen der Agent verschiedene Aufgaben, die mit der Höhe des Levels immer schwerer werden, bewältigen muss.
 
+[Sechste Stunde](#sechs)
+
 [Fünfte Stunde](#fünf)
 
 [Vierte Stunde](#vier)
@@ -12,6 +14,13 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 [Zweite Stunde](#zwei)
 
 [Erste Stunde](#eins)
+
+## Sechste Stunde<a name="sechs"></a>
+
+Heute haben wir das Labyrinth zu Ende gebaut und angefangen den Boden einzufärben. Da das alles sehr lange gedauert hat. Habe ich an unseren Stundenblogg weitergeschrieben, da wir hier noch einiges aufzuholen hatten.
+Außerdem haben wir noch ein paar Probleme und Konflikte in unserer Programmierung offen, die wir demnächst angehen wollen. Zum Beispiel ist uns aufgefallen, dass wenn Mario in das erste Level zurück springt, weil er gestorben ist, und dann wieder in das zweite Level gespielt wird, alle Gegenstände, also die Mauer, die Fische und die Möhre, doppelt in dem Spaceland vorhanden sind. Desweiteren müssen wir Mario noch so programmieren, dass er nicht durch die Wände des Labyrinths lauen kann.
+
+Auch haben wir schon einen Plan wie die nächsten Level aussehen sollen, aber ob wir das alles noch schaffen, was wir uns so vorstellen, bleibt abzuwarten.
 
 ## Fünfte Stunde<a name="fünf"></a>
  
