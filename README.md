@@ -27,6 +27,8 @@ Sobald jedoch Mario mit der Möhre kollidiert, besitzt er sie. Dafür setzten wi
 
 ![screenshot17](Bilder/screenshot17.png "17")
 
+Schließlich haben wir heute noch angefangen das dritte Level zu bearbeiten. In diesem soll Mario durch ein Labyrinth gehen. Gelangt er auf die andere Seite kann er dort wieder etwas tun um darauf in das vierte Level zu gelangen. 
+
 ## Vierte Stunde<a name="vier"></a>
 
 Heute haben wir uns damit beschäftigt unser "Canvas" zu sortieren. Einige Blöcke konnten wir entfernen, da wir sie gar nicht mehr benötigten. Außerdem konnten wir andere Blöcke einfacher programmieren und so unser "Canvas" übersichtlicher gestalten. Besonders unser großer "Kollisions"-Block von Mario und dem Auto ein Dorn im Auge. Vorher hatten wir, um zwei Fische in dem Spaceland zu erschaffen, zwei einzelnde "Hatch"-Blöcke programmiert, da die Fische unterschiedliche Positionen im Spaceland haben sollten. Herr Buhl hat uns darauf aufmerksam gemacht, dass es eine schönere Version gibt. Wir haben uns dafür entschieden die zwei "hatch"-Blöcke in einem "Procedure"-Block zusammen zu fassen, den wir "Hatchfisch" gennant haben. Um trotzdem noch für die beiden Fische unterschiedliche Koordinaten festlegen zu können, haben wir zunächst einmal Variablen für die x- und y-Achsen eingestzt. 
