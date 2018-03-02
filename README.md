@@ -23,7 +23,7 @@ In dem "Forever"-Block mussten wir die Variable nun auf falsch setzen, denn die 
 
 ![screenshot16](Bilder/screenshot16.png "16")
 
-Sobald jedoch MArio mit der Möhre kollidiert, besitzt er sie. Dafür setzten wir die Variable auf wahr und ließen die Möhre mit Hilfe eines "die"-Blockes verschwinden. Außerdem kann Mario nun in das dritte Level springen wenn er mit der Mauer kollidiert. Der "if"-Block stellt sicher, dass er allerdings nur das Level wechseln kann, wenn er die Möhre besitzt. Deshalb muss dafür die Boolsche Variable wahr sein.
+Sobald jedoch Mario mit der Möhre kollidiert, besitzt er sie. Dafür setzten wir die Variable auf wahr und ließen die Möhre mit Hilfe eines "die"-Blockes verschwinden. Außerdem kann Mario nun in das dritte Level springen wenn er mit der Mauer kollidiert. Der "if"-Block stellt sicher, dass er allerdings nur das Level wechseln kann, wenn er die Möhre besitzt. Deshalb muss dafür die Boolsche Variable wahr sein.
 
 ![screenshot17](Bilder/screenshot17.png "17")
 
