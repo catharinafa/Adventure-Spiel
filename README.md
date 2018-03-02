@@ -15,7 +15,17 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 
 ## Fünfte Stunde<a name="fünf"></a>
  
-In dieser Stunde haben wir die Grundsteine für das dritte Level gelegt. Dafür haben wir erst mal in 
+In dieser Stunde haben wir die Grundsteine für das dritte Level gelegt. Damit Mario in das dritte Level gelangen kann, muss er allerdings die Mohrrübe aus dem zweiten Level einsammel. Nur wenn er sie besitzt kann er durch das Tor der Mauer in das dritte Level gelangen. Dafür haben wir nun wieder "Boolsche Variablen" benutzt. Diese nannten wir "Mario hat Wurzel" und setzten sie auf wahr.
+
+![screenshot15](Bilder/Screenshot15.png "15")
+
+In dem "Forever"-Block mussten wir die Variable nun auf falsch setzen, denn die Möhre ist ja noch irgendwo in dem Spaceland und Mario muss sie erst einsammeln um sien besitzen zu können.
+
+![screenshot16](Bilder/Screenshot16.png "16")
+
+Sobald jedoch MArio mit der Möhre kollidiert, besitzt er sie. Dafür setzten wir die Variable auf wahr und ließen die Möhre mit Hilfe eines "die"-Blockes verschwinden.
+
+![screenshot17](Bilder/Screenshot17.png "17")
 
 ## Vierte Stunde<a name="vier"></a>
 
