@@ -3,6 +3,8 @@
 Nachdem wir uns in unserem ersten Halbjahr gut in das Programm Star Logo TNG eingearbeitet hatten, entschlossen wir uns auch bei unserem  nächsten Projekt dieses Programm zu verwenden. 
 Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren, in denen der Agent verschiedene Aufgaben, die mit der Höhe des Levels immer schwerer werden, bewältigen muss.
 
+[Siebte Stunde](#sieben)
+
 [Sechste Stunde](#sechs)
 
 [Fünfte Stunde](#fünf)
@@ -14,6 +16,15 @@ Unser Ziel ist es ein Adventure Spiel mit verschiedenen Levels zu programmieren,
 [Zweite Stunde](#zwei)
 
 [Erste Stunde](#eins)
+
+## Siebte Stunde<a name="sieben"></a>
+
+Leider konnten wir auf Grund von Stundenausfällen und Krankheitsfällen bei uns in den letzten Stunden nicht wirklich effektiv weiterarbeiten, sodass die Probleme (und Ziele...) der letzten Stunde bedauerlicherweise immer noch ausstehen. 
+Allerdings haben wir es geschafft Mario durch einen speziellen Progammierblock ("wall ahead?"), den wir in StarLogoTNG gefunden haben, so programmieren, dass er nicht mehr durch die Wände des Labyrinths läuft. Nun muss sich der Spieler also den Weg durch das dritte Level suchen und finden. Dies wird aber leider durch die Farbe des Spacelandes stark eingeschränkt. Wir haben es nicht mehr geschafft den BOden vollständig einzufärben, weshalb es an einigen Stellen sehr schwer ist den Boden und die Mauern zu unterscheiden und man im warsten Sinne des Wortes in dem Irrgarten ohne jegliche Orientierung herum irrt.
+Schafft es der Spieler dennoch aus dem Labyrinth springt er nicht in das von uns eigentlih angestrebte vierte Level, welches wir leider nicht mehr geschafft haben zu programmieren...
+Auch die anderen aufgetretenen Konflikte konnten wir leider nicht mehr angehen und beheben.
+
+Das alles hat uns gezeigt, dass manchmal Probleme, die noch so klein aussehen mögen, einen sehr lange in seinem Prozess aufhalten und einschränken können. Und obwohl wir trotz unserer vorher nicht vorhandenen Informatikkenntnisse bestimmt mehr hätten schaffen können, sind wir trotzdem einigermaßen zufrieden mit dem was wir in dem letzten Jahr gelernt und zu Stande gebracht haben.
 
 ## Sechste Stunde<a name="sechs"></a>
 
